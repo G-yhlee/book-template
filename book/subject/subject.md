@@ -1,5 +1,5 @@
 
-## 템플릿
+## 템플릿..
 
 [settings](https://g-yhlee.gitbook.io/settings/)
 
