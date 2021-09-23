@@ -5,5 +5,5 @@
 ## INFO
 
 Github: [https://github.com/G-yhlee/book-template](https://github.com/G-yhlee/book-template)  
-Gitbook: [https://g-yhlee.gitbook.io/coupang-reward-system/](https://g-yhlee.gitbook.io/coupang-reward-system/)
+Gitbook: [https://g-yhlee.gitbook.io/template/](https://g-yhlee.gitbook.io/template/)
 
